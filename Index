@@ -15,7 +15,7 @@
             text-align:center;
         }
     </style>
-</head>>
+</head>
 <body>
      <nav class="navbar navbar-default">
             <div class="container-fluid">
@@ -35,23 +35,29 @@
                 <h1 class ="titles">All About Fast Food</h1>
             </div>
         </div>
+
+        <div class = "row">
+            <div class = "col-md-12">
+                <p>The Battle of the Cedars (May 1776) was a series of skirmishes early in the American Revolutionary War in and around the Cedars, 45 km (28 mi) west of Montreal, British North America. Continental Army units were opposed by a small number of British troops leading militia, together with indigenous forces (primarily Iroquois). Brigadier General Benedict Arnold, commanding the American military garrison at Montreal, had placed troops at the Cedars in April on rumors of British military preparations. The garrison surrendered to a force led by Captain George Forster, and reinforcements were captured the next day. All of the American captives were eventually released in a prisoner swap agreement, but the deal was repudiated by Congress, and no British prisoners were freed. News of the affair included greatly inflated reports of casualties, and often included graphic but false accounts of atrocities committed by the Iroquois, who made up the majority of the British forces. (Full article...)</p>
+            </div>
+        </div>
+
         
         <div class = "row">
             <div class = "col-md-4">
-                <img src ="homepage1.png" width="400" height="400">
-        </div>
-            <div class = "col-md-4">
-                <img src = "homepage2.jpg" width="400" height="400">
+                <img src ="images\homepage1.png" width="400" height="400">
             </div>
-        </div>
             <div class = "col-md-4">
-                <img src = "">
+                <img src = "images\homepage2.jpg" width="400" height="400">
+            </div>
+            <div class = "col-md-4">
+                <img src = "images\homepage3.jpg" width="400" height="400">
             </div>
         </div>
 
         <div class = "row">
             <div class = "col-md-12">
-                <h1 class ="titles">Blah Blah BLah </h1>
+                <p>Blah Blah BLah </p>
             </div>
         </div>
 
@@ -63,4 +69,3 @@
 
 </body>
 </html>
-
